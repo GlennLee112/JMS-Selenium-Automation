@@ -1,2 +1,4 @@
-# JMS-Selenium-Automation-T3-Appeal-
-Incomplete project of JMS (J&amp;T data web app) automation
+# JMS-Selenium-Automation
+JMS (J&amp;T data web app) automation side project, with sub routine written to extract data from web app with high efficiency.
+
+Selenium web automation running Chrome with detached link to allow running multiple subroutine.
