@@ -4,3 +4,10 @@ JMS (J&amp;T data web app) automation side project, with sub routine written to 
 Selenium web automation running Chrome with detached link to allow running multiple subroutine consecutively.
 
 Disclaimer: with compliant to J&T Express (Malaysia) Sdn. Bhd. NDA aggrement, this app and any associate code are considered 'personal invention' and falls under personal (inventor's) discretion to modify and repurpose if required.  
+
+# Objectives
+- To cutdown time consuming manual data extraction task while opening avenue to implement further web automation and web / data scraping for data analytical purpose.
+
+# Result 
+- Vastly reduce data scraping rate compare to manual scraping (0.3 seconds per entry vs 15 seconds per entry)
+- Implementation: Not implemented; due to changes in work requirement, data scarping task is no longer required, project made redundant.
